@@ -1,0 +1,15 @@
+---
+title: "Contact"
+format: html
+editor: visual
+---
+
+Please get in touch if you're interested in my research and/or would like to collaborate!
+
+- [Email- Current institution](kcb7@arizona.edu)\
+
+- [Email- Permanent](kiranc.basava@gmail.com)
+
+- [Bluesky](https://bsky.app/profile/incertaesedis.bsky.social)
+
+- [Linkedin](https://www.linkedin.com/in/kiran-basava-34b50122/)

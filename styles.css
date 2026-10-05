@@ -1,0 +1,69 @@
+#title-block-header {
+    display: none;
+}
+
+/* bold title navbar */
+.navbar-title {
+    font-weight: 800;
+}
+
+/* background picture */
+body {
+  background-position: top;
+  background-size: cover;
+  background-attachment: fixed;
+  background-image: url(background-image.jpg);
+  background-repeat: no-repeat;
+}
+
+#quarto-document-content {
+  background-color: rgba(255, 255, 255, 0.9) !important;
+  padding-right: 20px;
+  padding-left: 20px;
+  padding-bottom: 20px;
+  padding-top: 1em;
+  margin-top: 1em;
+}
+
+/* reduce footer height and change colours */
+.nav-footer {
+  background-color: #78c2ad; /* same as header background */
+  color: white;
+  line-height: 1;
+  padding: 0.5em !important;
+  margin: 0 !important;
+  min-height: auto !important;
+  line-height: 1;
+}
+
+.nav-footer div {
+  padding: 0 !important;
+  margin: 0 !important;
+  min-height: auto !important;
+  line-height: 1;
+}
+
+.nav-footer a {
+  color: white;
+}
+
+/* size heading h2 */
+
+h2 {
+  font-weight: 300;
+  font-size: 1.3rem;
+}
+
+h3 {
+  font-size: 1rem;
+}
+
+/* size videosand images for the project webapge*/
+.quarto-video {
+  max-width: 300px; 
+}
+
+.img-fluid {
+    max-width: 300px;
+    border-radius: 10px;
+}

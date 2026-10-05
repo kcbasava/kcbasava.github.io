@@ -1,0 +1,35 @@
+---
+title: "Projects"
+format: html
+editor: visual
+---
+
+# Current projects
+
+## Animal Culture Database (ACDB)
+
+Many researchers have highlighted the necessity of considering the wide range of cultural behaviors in nonhuman animals when developing conservation strategies. My current work centers around building the Animal Culture Database (ACDB), which aims to document cultural behaviors such as song dialects, foraging traditions, and migratory knowledge in wild animal populations worldwide and evidence for human impacts on these behaviors. The first version of the database was introduced in a [2025 paper](https://www.nature.com/articles/s41597-025-05315-y). You can find the GitHub repository [here](https://github.com/datadiversitylab/ACDB) and the web app to browse the database [here](https://datadiversitylab.github.io/ACDB/). It's currently in its initial stages and very incomplete, but I plan to expand it to cover the entirety of the literature on culture across animal species with a contributions pipeline for new data.
+
+## Science of cultural evolutionary science
+
+I've recently begun collaborating with [Dr. Mason Youngblood](https://masonyoungblood.com/) on an updated bibliometric analysis of his [2018 paper](doi.org/10.1057/s41599-018-0175-8). For future work, I also plan to research historical and ideological factors influencing the reception of cultural evolutionary theory and methods in other academic fields.
+
+## (planned) Historical psychology of mental disorders
+
+I'm interested in applying text analytic and other quantitative methods to historical, archaeological, and ethnographic data to measure how what we now diagnose as discrete mental disorders have varied across times and cultures.
+
+# Past projects
+
+## Historical wartime violence
+
+My doctoral research was on how forms of wartime violence, including [indiscriminate killing of enemies](doi.org/10.1017/ehs.2025.10033), trophy-taking practices, and self-sacrificial behavior, [varied cross-culturally](https://escholarship.org/uc/item/17j8g4dv) among historical societies.
+
+## Evolution of cephalopod intelligence
+
+Cephalopods (squids, octopuses, and cuttlefish) are primarily asocial invertebrates very distantly related to humans. They are fascinating in their own right, and, because of their evolutionary distance from social vertebrates such as birds and mammals, are a phylogenetically interesting group with which to examine the evolution of cognition. I was fortunate to be involved with a [Diverse Intelligences](https://www.templetonworldcharity.org/projects-resources/project-database/0464) project examining the drivers of brain evolution across cephalopods. Paper: [Ecological not social factors explain brain size in cephalopods](https://www.sciencedirect.com/science/article/pii/S2589004226016998?via%3Dihub)
+
+## Phylogeny of Islamic traditions
+
+My MSc research applied phylogenetic methods to model the cultural transmissio of afterlife beliefs among historical Islamic sects. Paper: <https://www.nature.com/articles/s41562-020-01013-4>
+
+[Cultural phylogenetics of afterlife beliefs](https://socialsciences.nature.com/posts/cultural-phylogenetics-of-afterlife-beliefs)
