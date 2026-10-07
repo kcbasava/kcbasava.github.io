@@ -1,0 +1,18 @@
+---
+title: "Kiran Basava"
+title-block-banner: true
+toc: false
+format: html
+about:
+  template: jolla
+  image: '/Users/kiranbasava/DDL/kcb.png'
+  image-shape: round
+---
+
+## About
+
+<br>
+
+<img src="headshot.png" style="width: 40%; float: left; margin-right: 40px;"/>
+
+My research uses comparative methods to explore macroevolutionary patterns of behavior and cognition in humans and other animals. Broadly, I am interested in how people (including animals) conceptualize ourselves and others in our social world, and how these cognitive capacities and the behaviors they give rise to have biologically and culturally evolved. I am currently a postdoctoral researcher with the [Data Diversity Lab](https://datadiversitylab.github.io/) at the University of Arizona, where I am building the [Animal Culture Database (ACDB)](https://github.com/datadiversitylab/ACDB), a global database of nonhuman animal cultures. Please visit my [Google Scholar](https://scholar.google.com/citations?user=-e03sdoAAAAJ&hl=en) page to view my publications.
