@@ -7,6 +7,8 @@ about:
   template: jolla
   image: '/Users/kiranbasava/DDL/kcb.png'
   image-shape: round
+execute: 
+  freeze: false
 ---
 
 ## About
