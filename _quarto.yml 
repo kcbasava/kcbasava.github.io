@@ -8,7 +8,8 @@ website:
   site-url: https://kcbasava.github.io
   navbar: 
     left: 
-      - href: About.qmd
+      - text: "About"
+        href: index.qmd
       - href: Projects.qmd
       - href: CV.qmd
       - href: Contact.qmd
