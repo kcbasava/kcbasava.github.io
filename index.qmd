@@ -4,7 +4,7 @@ title-block-banner: true
 toc: false
 format: html
 about:
-  template: jolla
+  template: solana
   image: '/Users/kiranbasava/DDL/kcb.png'
   image-shape: round
 execute: 
