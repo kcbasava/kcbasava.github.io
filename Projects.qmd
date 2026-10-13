@@ -8,7 +8,7 @@ editor: visual
 
 ## Animal Culture Database (ACDB)
 
-Many researchers have highlighted the necessity of considering the wide range of cultural behaviors in nonhuman animals when developing conservation strategies. My current work centers around building the Animal Culture Database (ACDB), which aims to document cultural behaviors such as song dialects, foraging traditions, and migratory knowledge in wild animal populations worldwide and evidence for human impacts on these behaviors. The first version of the database was introduced in a [2025 paper](https://www.nature.com/articles/s41597-025-05315-y). You can find the GitHub repository [here](https://github.com/datadiversitylab/ACDB) and the web app to browse the database [here](https://datadiversitylab.github.io/ACDB/). It's currently in its initial stages and very incomplete, but I plan to expand it to cover the entirety of the literature on culture across animal species with a contributions pipeline for new data.
+Culture is present not just in humans but in a wide range of other species. My current work centers around building the Animal Culture Database (ACDB), which aims to document cultural behaviors such as song dialects, foraging traditions, and migratory knowledge in wild animal populations worldwide and evidence for human impacts on these behaviors. The first version of the database was introduced in a [2025 paper](https://www.nature.com/articles/s41597-025-05315-y). You can find the GitHub repository [here](https://github.com/datadiversitylab/ACDB) and the web app to browse the database [here](https://datadiversitylab.github.io/ACDB/). It's currently in its initial stages and very incomplete, but I plan to expand it to cover the entirety of the literature on culture across animal species with a contributions pipeline for new data.  
 
 ## Science of cultural evolutionary science
 
@@ -16,7 +16,7 @@ I've recently begun collaborating with [Dr. Mason Youngblood](https://masonyoung
 
 ## (planned) Historical psychology of mental disorders
 
-I'm interested in applying text analytic and other quantitative methods to historical, archaeological, and ethnographic data to measure how what we now diagnose as discrete mental disorders have varied across times and cultures.
+I'm interested in applying text analytic and other quantitative methods to historical, archaeological, and ethnographic data to measure how what we now diagnose as discrete mental disorders have varied across times and cultures. Please get in touch if this is something you'd be interested in collaborating on!
 
 # Past projects
 
