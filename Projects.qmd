@@ -22,7 +22,7 @@ I'm interested in applying text analytic and other quantitative methods to histo
 
 ## Historical wartime violence
 
-My doctoral research was on how forms of wartime violence, including [indiscriminate killing of enemies](doi.org/10.1017/ehs.2025.10033), trophy-taking practices, and self-sacrificial behavior, [varied cross-culturally](https://escholarship.org/uc/item/17j8g4dv) among historical societies.
+My doctoral research was on how forms of wartime violence, including [indiscriminate killing of enemies](doi.org/10.1017/ehs.2025.10033), [trophy-taking practices](https://doi.org/10.31235/osf.io/gecfn_v1), and self-sacrificial behavior, [varied cross-culturally](https://escholarship.org/uc/item/17j8g4dv) among historical societies.
 
 ## Evolution of cephalopod intelligence
 
@@ -30,6 +30,6 @@ Cephalopods (squids, octopuses, and cuttlefish) are primarily asocial invertebra
 
 ## Phylogeny of Islamic traditions
 
-My MSc research applied phylogenetic methods to model the cultural transmissio of afterlife beliefs among historical Islamic sects. Paper: <https://www.nature.com/articles/s41562-020-01013-4>
+My MSc research applied phylogenetic methods to model the cultural transmission of afterlife beliefs among historical Islamic sects. Paper: <https://www.nature.com/articles/s41562-020-01013-4>
 
 [Cultural phylogenetics of afterlife beliefs](https://socialsciences.nature.com/posts/cultural-phylogenetics-of-afterlife-beliefs)
